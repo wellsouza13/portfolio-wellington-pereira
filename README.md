@@ -11,16 +11,3 @@ Ferramentas e Tecnologias: Git, Docker, REST APIs, Microsserviços, MongoDB, Fir
 Metodologias: Scrum, Kanban, XP
 Outras: UX/UI Design, Cloud Computing, Blockchain, Inteligência Artificial, IoT
 
-Estrutura do Projeto
-
-meu-portifolio/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   ├── main.jsx
-├── index.html
-├── package.json
-├── vite.config.js
